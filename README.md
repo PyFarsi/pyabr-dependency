@@ -4,12 +4,7 @@ Pyabr main package index
 
 ### How can update my Pyabr OS repo:
 
-1. Stable packages:
-```shell
-paye in stable
-```
-
-2. Unstable packages:
+1. Latest packages:
 
 ```shell
 paye in latest
